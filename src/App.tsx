@@ -1,5 +1,7 @@
 // import { Button } from "./components/Button";
-import { Home } from "./pages/Home";
+// import { Home } from "./pages/Home";
+
+import { NewRoom } from "./pages/NewRoom";
 
 function App() {
 	return (
@@ -8,7 +10,8 @@ function App() {
 		// 	{/* <Button text={['1','2']}/> */}
       
 		// </div>
-		<Home />
+		// <Home />
+		<NewRoom />
 	);
 }
 
